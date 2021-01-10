@@ -11,7 +11,7 @@ public class test01 {
     public void test1(){
         byte a = 0;
         short b = 0;
-        int c = 0;
+        int c = 1;
         long d = 0;
         double e = 0.0;
         float f = 0f;
